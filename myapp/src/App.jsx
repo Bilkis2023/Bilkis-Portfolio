@@ -6,49 +6,28 @@ import Header from './components/Header.jsx'
 import Home from './components/Home.jsx'
 import Contact from './components/Contact.jsx'
 // import Project from './components/Project.jsx'
-import ProjectGallery from './components/ProjectGallery.jsx.jsx'
+import ProjectGallery from './components/ProjectGallery.jsx'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <>
-    <Header />
-    <main>
-      <Routes>
-        <Routes id="home-route" path="/" element={<Home />} />
-      </Routes>
 
-    </main>
+    <div className="container">
+      <main>
+        <Routes>
+        <Routes id="header-route" path="/" element={<header />} />
+          <Routes id="home-route" path="/" element={<Home />} />
+          <Routes id="contact-route" path="/" element={<contact />} />
+          <Routes id="project-route" path="/" element={<project />} />
+          <Routes id="projectGallery-route" path="/" element={<projectGallery />} />
+        </Routes>
 
-    <Header />
-    <main>
-      <Routes>
-        <Routes id="Project-route" path="/" element={<Project />} />
-      </Routes>
+      </main>
 
-    </main>
-
-    <Header />
-    <main>
-      <Routes>
-        <Routes id="ProjectGallery-route" path="/" element={<ProjectGallery />} />
-      </Routes>
-
-    </main>
-
-    <Header />
-    <main>
-      <Routes>
-        <Routes id="Contact-route" path="/" element={<Contact />} />
-      </Routes>
-
-    </main>
-
-    
-    </>
+    </div>
   )
 }
+
 
 export default App
