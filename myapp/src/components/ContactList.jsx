@@ -4,26 +4,26 @@ import Card from './Card';
 const contactInfoList = [
     {
         'platform': 'github',
-        'hyperlink': 'github',
+        'hyperlink': '#',
         'content': 'Github'
     },
     {
         'platform': 'linkedin',
-        'hyperlink': 'linkedin',
+        'hyperlink': '#',
         'content': 'LinkedIn'
     }
 ];
-const ContactList = (){
+const ContactList = () =>{
     const contactInfo = contactInfoList.map((contact, i) => (
 
         <Card {...contact} key={i} />
     ))
-}
+
 return (
     <footer className="contact-list">
         {contactInfo}
-    </footer>;
+    </footer>);
 
-);
+}
 
 export default ContactList;
