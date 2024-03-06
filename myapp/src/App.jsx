@@ -13,15 +13,15 @@ function App() {
 
   return (
 
-    <div className="container">
+    <div className="container-fluid">
       <Header />
-      <main>
+      <main className='container-fluid'>
         <Routes>
 
           <Route id="home-route" path="/" element={<Home />} />
-          <Route id="contact-route" path="/" element={<Contact />} />
-          <Route id="projectGallery-route" path="/" element={<ProjectGallery />} />
-          <Route id="projectDetails-route" path="/" element={<ProjectDetails />} />
+          <Route id="contact-route" path="/contact" element={<Contact />} />
+          <Route id="projectGallery-route" path="/project-gallery" element={<ProjectGallery />} />
+          <Route id="projectDetails-route" path="/project/:id" element={<ProjectDetails />} />
 
         </Routes>
 

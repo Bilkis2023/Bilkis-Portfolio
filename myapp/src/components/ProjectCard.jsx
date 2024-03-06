@@ -9,6 +9,8 @@ const ProjectCard = ({ id, image, title }) => {
                 <h1>{title}</h1>
             </div>
         </Link>
+
+        
     )
 }
 

@@ -3,7 +3,7 @@ import React from "react";
 const style = {
     card: {
         margin: "20px",
-        background:"#"
+        background:"#C36FC7"
 
     },
    heading:{
@@ -14,7 +14,7 @@ const style = {
     color:"white",
     padding:"0.20px"  
    },
-
+ 
    content:{
     padding: 20
    }
@@ -25,10 +25,14 @@ const style = {
 function Card() {
 return(
     <div style={style.card}>
-      <div style={ style.heading}>Bilkis's work</div> 
-      <div style={ style.content}>
-      "Good work...as.."
+      <div style={ style.heading}> Bilkis</div> 
+      <div style={ style.content}> Bilkis Naher
+      
       </div> 
+      <div style={ style.p}>gfhffhffhfhfgfrtr</div> 
+
+
+      
     </div>
 );
 }

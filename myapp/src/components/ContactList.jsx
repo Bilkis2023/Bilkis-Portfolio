@@ -4,12 +4,12 @@ import Card from './Card';
 const contactInfoList = [
     {
         'platform': 'github',
-        'hyperlink': '#',
+        'hyperlink': 'https://github.com/Bilkis2023',
         'content': 'Github'
     },
     {
         'platform': 'linkedin',
-        'hyperlink': '#',
+        'hyperlink': 'https://www.linkedin.com/feed/',
         'content': 'LinkedIn'
     }
 ];
