@@ -6,7 +6,7 @@ const ProjectCard = ({ id, image, title }) => {
         <Link to={`/projects/${id}`}>
             <div>
                 <img className="project-image" src={image} alt={title} />
-                <h1>{title}</h1>
+                <h3>{title}</h3>
             </div>
         </Link>
 

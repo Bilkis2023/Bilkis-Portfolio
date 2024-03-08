@@ -9,7 +9,7 @@ const contactInfoList = [
     },
     {
         'platform': 'linkedin',
-        'hyperlink': 'https://www.linkedin.com/feed/',
+        'hyperlink': 'https://www.linkedin.com/in/bilkis-naher-670099268/',
         'content': 'LinkedIn'
     }
 ];
