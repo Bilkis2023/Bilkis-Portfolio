@@ -10,7 +10,7 @@ const Home = () => {
         </h1>
         <div className='row'>
           <div className='col-6'>
-            <img className='headshot img-fluid mx-auto d-block' src="./assets/code-images/Avatar-1.jpg" alt="Bilkis Naher" />
+            <img className='headshot img-fluid mx-auto d-block' src="./assets/code-images/Portfolio.jpg" alt="Bilkis Naher" />
           </div>
           <div className='col-6'>
             <div className='bio-text mt-5 p-5'>
