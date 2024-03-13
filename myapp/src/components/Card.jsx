@@ -25,11 +25,11 @@ const style = {
 function Card() {
 return(
     <div style={style.card}>
-      <div style={ style.heading}> Bilkis</div> 
-      <div style={ style.content}> Bilkis Naher
+      <div style={ style.heading}></div> 
+      <div style={ style.content}>
       
       </div> 
-      <div style={ style.p}>gfhffhffhfhfgfrtr</div> 
+      <div style={ style.p}></div> 
 
 
       
