@@ -25,7 +25,7 @@ Technology Used
 
 ## image
 
-![screenShot](./assets/code-images/pfimage.jpg)
+![screenShot](./assets/code-images/Pfimage.jpg)
 
 
 
