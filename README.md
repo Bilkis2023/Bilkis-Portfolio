@@ -28,6 +28,11 @@ Technology Used
 ![screenShot](./myapp/public/assets/code-images/pfimage.jpg)
 
 
+# Credits:
+https://bootcampspot.instructure.com/courses/5076
+https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+https://www.markdownguide.org/cheat-sheet
+
 
 
 
