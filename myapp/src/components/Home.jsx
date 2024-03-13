@@ -9,11 +9,11 @@ const Home = () => {
           Hi!, this is my Portfolio 
         </h1>
         <div className='row'>
-          <div className='col-6'>
+          <div className='col-5'>
             <img className='headshot img-fluid mx-auto d-block' src="./assets/code-images/Portfolio.jpg" alt="Bilkis Naher" />
           </div>
-          <div className='col-6'>
-            <div className='bio-text mt-5 p-5'>
+          <div className='col-7'>
+            <div className='bio-text mt-5 p-2'>
               <p>Mst Bilkis Naher ( font-end web developer)</p>
               <p>I had been learning some skills related to Digital Marketing 
                 before I started my Bootcamp Coding lessons. </p>

@@ -2,17 +2,17 @@ import React from "react";
  
 const style = {
     card: {
-        margin: "20px",
-        background:"#C36FC7"
+        margin: "0",
+        background:"#bebebe"
 
     },
    heading:{
-    background: "#3f51b5",
+    background: "#fff",
     minHeight: 50,
     loneHeight:3.5,
     fontSize: "1.2rem",
     color:"white",
-    padding:"0.20px"  
+    padding:"0"  
    },
  
    content:{
