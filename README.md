@@ -2,17 +2,18 @@
 
 ## Description
 
-This is an react javaScript portfolio. Through this portfolio activity displayed other skill as wel like javaScript web api, command line interface, test driven etc.
+This is an react javaScript portfolio. The portfolio is displaying other skills as wel as  like javaScript web api, command line interface, test driven etc.
 
 
-# Diployed Link:
+# Deployed GitHub Link:
 [My Portfolio](https://bilkis2023.github.io/Bilkis-Portfolio/)
 
+# Deployed Netlify Link:
+[My Portfolio](https://prismatic-sfogliatella-a42dc2.netlify.app)
 
+## image
 
-# GitHub repository
-Clone the repository to your local machine with SSH.
-git clone https://github.com/Bilkis2023/Bilkis-Portfolio
+![screenShot](./myapp/public/assets/code-images/pfimage.jpg)
 
 To install the required dependencies, run the following command in a terminal:
 `npm install inquierer`
@@ -25,9 +26,7 @@ Technology Used
 - JavaScript
 - React
 
-## image
 
-![screenShot](./myapp/public/assets/code-images/pfimage.jpg)
 
 
 # Credits:
