@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "title": "Weather-Module",
+        "deploy": "https://bilkis2023.github.io/Weather-Module/",
+        "github": "https://github.com/Bilkis2023/Weather-Module",
+        "image": "./assets/code-images/Weather-module.jpg" 
+    },
+    {
+        "id": "5",
+        "title": "Team-Profile",
+        "deploy": "https://bilkis2023.github.io/Team-Profile/",
+        "github": "https://github.com/Bilkis2023/Team-Profile",
+        "image": "./assets/code-images/Team-profile.jpg"
+    },
+
+   
+   
+    {
+        "id": "4",
+        "title": "password-generator",
+        "deploy": "https://bilkis2023.github.io/password-generator/",
+        "github": "https://github.com/Bilkis2023/password-generator",
+        "image": "./assets/code-images/Password-Generator-6.jpg"
+    },
+
+     {
+        "id": "2",
+        "title": "Daily-Planner-App",
+        "deploy": "https://bilkis2023.github.io/Daily-Planner-App/",
+        "github": "https://github.com/Bilkis2023/Daily-Planner-App",
+        "image": "./assets/code-images/Daily-planner-app.jpg"
+    },
+
+    {
+        "id": "3",
+        "title": "Challenge-6-Web-APIs-Code-Quiz",
+        "deploy": "https://bilkis2023.github.io/Challenge-6-Web-APIs-Code-Quiz/",
+        "github": "https://github.com/Bilkis2023/Challenge-6-Web-APIs-Code-Quiz",
+        "image": "./assets/code-images/Code-3.jpg"
+    }
+
+]

@@ -5,6 +5,8 @@
 This is an react javaScript portfolio. Through this portfolio activity displayed other skill as wel like javaScript web api, command line interface, test driven etc.
 
 
+# Diployed Link:
+[My Portfolio](https://bilkis2023.github.io/Bilkis-Portfolio/)
 
 
 
